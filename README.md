@@ -158,7 +158,7 @@ Based on the model predictions, Interconnect can:
 
 ## 👤 Author
 
-Machine Learning Project for Customer Churn Prediction
+Created by: Fernando
 
 ## 📄 License
 
