@@ -158,7 +158,7 @@ Based on the model predictions, Interconnect can:
 
 ## 👤 Author
 
-Created by: Fernando
+Created by: Fernando Gnone de Oliveira
 
 ## 📄 License
 
