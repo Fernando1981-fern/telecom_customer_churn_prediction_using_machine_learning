@@ -1,4 +1,4 @@
-# Telecom Customer Churn Prediction Using Machine Learning
+# Telecom Customer Churn Prediction
 
 ## 📋 Project Overview
 
